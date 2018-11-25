@@ -1,0 +1,17 @@
+body {
+    margin: 50px;
+}
+
+h3 {
+    color: red;
+}
+
+label {
+    font-weight: bold;
+}
+
+span {
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px;
+}
