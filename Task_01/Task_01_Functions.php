@@ -6,7 +6,7 @@ function IsValuesSet()
 
 function GetValue($data)
 {
-    return empty($data) ? -1 : intval($data);
+    return is_numeric($data) ? intval($data) : -1;
 }
 
 function IsIncorrect($data)

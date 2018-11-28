@@ -24,7 +24,6 @@ if (IsValuesSet()) {
 
 <body>
 <h1>Please fill the form with digits from 0 to 255</h1>
-<p>Non-digit input returns always 0</p>
 
 <!--ERROR PRINTER-->
 <div>
